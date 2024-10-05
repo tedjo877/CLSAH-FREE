@@ -199,24 +199,24 @@ rule-providers:
   Vidio:
     type: http
     behavior: classical
-    path: "./vidio.yaml"
+    path: ".Provider/vidio.yaml"
     url: https://github.com/tedjo877/CLSAH-FREE/tree/main/Provider/vidio.yaml
     interval: 86400
   Edukasi:
     type: http
     behavior: classical
-    path: "./edukasi.yaml"
+    path: ".Provider/edukasi.yaml"
     url: https://github.com/tedjo877/CLSAH-FREE/tree/main/Provider/edukasi.yaml
     interval: 86400
   Ruangguru:
     type: http
     behavior: classical
-    path: "./ruangguru.yaml"
+    path: ".Provider/ruangguru.yaml"
     url: https://github.com/tedjo877/CLSAH-FREE/tree/main/Provider/ruangguru.yaml
     interval: 86400
   Flex:
     type: http
     behavior: classical
-    path: "./flex.yaml"
+    path: ".Provider/flex.yaml"
     url: https://github.com/tedjo877/CLSAH-FREE/tree/main/Provider/flex.yaml
     interval: 86400
