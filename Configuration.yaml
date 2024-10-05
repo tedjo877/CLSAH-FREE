@@ -1,28 +1,28 @@
 proxy-providers:
   Akunid:
     type: file
-    path: "./vidio.yaml"
+    path: ".Provider/vidio.yaml"
     health-check:
       enable: true
       url: http://www.gstatic.com/generate_204
       interval: '30'
   Akunid1:
     type: file
-    path: "./flex.yaml"
+    path: ".Provider/flex.yaml"
     health-check:
       enable: true
       url: http://www.gstatic.com/generate_204
       interval: '30'
   Akunid2:
     type: file
-    path: "./edukasi.yaml"
+    path: ".Provider/edukasi.yaml"
     health-check:
       enable: true
       url: http://www.gstatic.com/generate_204
       interval: '30'
   Akunid3:
     type: file
-    path: "./ruangguru.yaml"
+    path: ".Provider/ruangguru.yaml"
     health-check:
       enable: true
       url: http://www.gstatic.com/generate_204
@@ -195,3 +195,28 @@ find-process-mode: always
 global-client-fingerprint: chrome
 rules:
 - MATCH,♻️UT-WS♻️
+rule-providers:
+  Vidio:
+    type: http
+    behavior: classical
+    path: "./vidio.yaml"
+    url: https://github.com/tedjo877/CLSAH-FREE/tree/main/Provider/vidio.yaml
+    interval: 86400
+  Edukasi:
+    type: http
+    behavior: classical
+    path: "./edukasi.yaml"
+    url: https://github.com/tedjo877/CLSAH-FREE/tree/main/Provider/edukasi.yaml
+    interval: 86400
+  Ruangguru:
+    type: http
+    behavior: classical
+    path: "./ruangguru.yaml"
+    url: https://github.com/tedjo877/CLSAH-FREE/tree/main/Provider/ruangguru.yaml
+    interval: 86400
+  Flex:
+    type: http
+    behavior: classical
+    path: "./flex.yaml"
+    url: https://github.com/tedjo877/CLSAH-FREE/tree/main/Provider/flex.yaml
+    interval: 86400
