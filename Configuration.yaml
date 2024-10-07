@@ -316,10 +316,10 @@ rule-providers:
     path: "./Akun/flex.yaml"
     url: https://raw.githubusercontent.com/tedjo877/CLSAH-FREE/V1/Provider/flex.yaml
     interval: 86400
-  Ilmipedia:
+  Ilmupedia:
     type: http
     behavior: classical
-    path: "./Akun/ilmupedi.yaml"
+    path: "./Akun/ilmupedia.yaml"
     url: https://raw.githubusercontent.com/tedjo877/CLSAH-FREE/V1/Provider/ilmipedia.yaml
     interval: 86400
   Netflix:
