@@ -1,0 +1,226 @@
+proxies:
+  - name: ID V
+    server: 104.22.20.245
+    port: 443
+    type: vless
+    uuid: 12c77571-ed51-48a9-b15a-192c5b403f5e
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: bedebah.punya.workers.dev
+    network: ws
+    ws-opts:
+      path: /vl=35.219.15.90
+      headers:
+        Host: bedebah.punya.workers.dev
+    udp: true
+  - name: ID V 2
+    server: 172.67.22.129
+    port: 443
+    type: vless
+    uuid: 12c77571-ed51-48a9-b15a-192c5b403f5e
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: bedebah.punya.workers.dev
+    network: ws
+    ws-opts:
+      path: /vl=35.219.15.90
+      headers:
+        Host: bedebah.punya.workers.dev
+    udp: true
+  - name: ID V 3
+    server: 104.22.21.245
+    port: 443
+    type: vless
+    uuid: 12c77571-ed51-48a9-b15a-192c5b403f5e
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: bedebah.punya.workers.dev
+    network: ws
+    ws-opts:
+      path: /vl=35.219.15.90
+      headers:
+        Host: bedebah.punya.workers.dev
+    udp: true
+  - name: ID V 4
+    server: ads.ruangguru.com
+    port: 443
+    type: vless
+    uuid: 12c77571-ed51-48a9-b15a-192c5b403f5e
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: bedebah.punya.workers.dev
+    network: ws
+    ws-opts:
+      path: /vl=35.219.15.90
+      headers:
+        Host: bedebah.punya.workers.dev
+    udp: true
+  - name: ID V 5
+    server: asuransi.ruangguru.com
+    port: 443
+    type: vless
+    uuid: 12c77571-ed51-48a9-b15a-192c5b403f5e
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: bedebah.punya.workers.dev
+    network: ws
+    ws-opts:
+      path: /vl=35.219.15.90
+      headers:
+        Host: bedebah.punya.workers.dev
+    udp: true
+  - name: ID V 6
+    server: io.ruangguru.com
+    port: 443
+    type: vless
+    uuid: 12c77571-ed51-48a9-b15a-192c5b403f5e
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: bedebah.punya.workers.dev
+    network: ws
+    ws-opts:
+      path: /vl=35.219.15.90
+      headers:
+        Host: bedebah.punya.workers.dev
+    udp: true
+  - name: ID V 7
+    server: audisi.ruangguru.com
+    port: 443
+    type: vless
+    uuid: 12c77571-ed51-48a9-b15a-192c5b403f5e
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: bedebah.punya.workers.dev
+    network: ws
+    ws-opts:
+      path: /vl=35.219.15.90
+      headers:
+        Host: bedebah.punya.workers.dev
+    udp: true
+  - name: ID V 8
+    server: belajar.ruangguru.com
+    port: 443
+    type: vless
+    uuid: 12c77571-ed51-48a9-b15a-192c5b403f5e
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: bedebah.punya.workers.dev
+    network: ws
+    ws-opts:
+      path: /vl=35.219.15.90
+      headers:
+        Host: bedebah.punya.workers.dev
+    udp: true
+  - name: ID V 9
+    server: bimbel.ruangguru.com
+    port: 443
+    type: vless
+    uuid: 12c77571-ed51-48a9-b15a-192c5b403f5e
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: bedebah.punya.workers.dev
+    network: ws
+    ws-opts:
+      path: /vl=35.219.15.90
+      headers:
+        Host: bedebah.punya.workers.dev
+    udp: true
+  - name: ID V 10
+    server: blog.ruangguru.com
+    port: 443
+    type: vless
+    uuid: 12c77571-ed51-48a9-b15a-192c5b403f5e
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: bedebah.punya.workers.dev
+    network: ws
+    ws-opts:
+      path: /vl=35.219.15.90
+      headers:
+        Host: bedebah.punya.workers.dev
+    udp: true
+  - name: ID V 11
+    server: bts.ruangguru.com
+    port: 443
+    type: vless
+    uuid: 12c77571-ed51-48a9-b15a-192c5b403f5e
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: bedebah.punya.workers.dev
+    network: ws
+    ws-opts:
+      path: /vl=35.219.15.90
+      headers:
+        Host: bedebah.punya.workers.dev
+    udp: true
+  - name: ID V 12
+    server: champion.ruangguru.com
+    port: 443
+    type: vless
+    uuid: 12c77571-ed51-48a9-b15a-192c5b403f5e
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: bedebah.punya.workers.dev
+    network: ws
+    ws-opts:
+      path: /vl=35.219.15.90
+      headers:
+        Host: bedebah.punya.workers.dev
+    udp: true
+  - name: ID V 13
+    server: cicilan.ruangguru.com
+    port: 443
+    type: vless
+    uuid: 12c77571-ed51-48a9-b15a-192c5b403f5e
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: bedebah.punya.workers.dev
+    network: ws
+    ws-opts:
+      path: /vl=35.219.15.90
+      headers:
+        Host: bedebah.punya.workers.dev
+    udp: true
+  - name: ID V 14
+    server: diskon.ruangguru.com
+    port: 443
+    type: vless
+    uuid: 12c77571-ed51-48a9-b15a-192c5b403f5e
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: bedebah.punya.workers.dev
+    network: ws
+    ws-opts:
+      path: /vl=35.219.15.90
+      headers:
+        Host: bedebah.punya.workers.dev
+    udp: true
+  - name: ID V 15
+    server: ruangguru.com
+    port: 443
+    type: vless
+    uuid: 12c77571-ed51-48a9-b15a-192c5b403f5e
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: bedebah.punya.workers.dev
+    network: ws
+    ws-opts:
+      path: /vl=35.219.15.90
+      headers:
+        Host: bedebah.punya.workers.dev
+    udp: true

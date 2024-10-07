@@ -1,0 +1,181 @@
+proxies:
+  - name: ID V
+    server: 104.22.24.131
+    port: 443
+    type: vless
+    uuid: 12c77571-ed51-48a9-b15a-192c5b403f5e
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: bedebah.punya.workers.dev
+    network: ws
+    ws-opts:
+      path: /vl=35.219.15.90
+      headers:
+        Host: bedebah.punya.workers.dev
+    udp: true
+  - name: ID V 2
+    server: 104.22.25.131
+    port: 443
+    type: vless
+    uuid: 12c77571-ed51-48a9-b15a-192c5b403f5e
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: bedebah.punya.workers.dev
+    network: ws
+    ws-opts:
+      path: /vl=35.219.15.90
+      headers:
+        Host: bedebah.punya.workers.dev
+    udp: true
+  - name: ID V 3
+    server: 104.26.7.171
+    port: 443
+    type: vless
+    uuid: 12c77571-ed51-48a9-b15a-192c5b403f5e
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: bedebah.punya.workers.dev
+    network: ws
+    ws-opts:
+      path: /vl=35.219.15.90
+      headers:
+        Host: bedebah.punya.workers.dev
+    udp: true
+  - name: ID V 4
+    server: 104.26.6.171
+    port: 443
+    type: vless
+    uuid: 12c77571-ed51-48a9-b15a-192c5b403f5e
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: bedebah.punya.workers.dev
+    network: ws
+    ws-opts:
+      path: /vl=35.219.15.90
+      headers:
+        Host: bedebah.punya.workers.dev
+    udp: true
+  - name: ID V 5
+    server: 104.18.25.139
+    port: 443
+    type: vless
+    uuid: 12c77571-ed51-48a9-b15a-192c5b403f5e
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: bedebah.punya.workers.dev
+    network: ws
+    ws-opts:
+      path: /vl=35.219.15.90
+      headers:
+        Host: bedebah.punya.workers.dev
+    udp: true
+  - name: ID V 6
+    server: 104.18.2.2
+    port: 443
+    type: vless
+    uuid: 12c77571-ed51-48a9-b15a-192c5b403f5e
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: bedebah.punya.workers.dev
+    network: ws
+    ws-opts:
+      path: /vl=35.219.15.90
+      headers:
+        Host: bedebah.punya.workers.dev
+    udp: true
+  - name: ID V 7
+    server: 104.17.2.81
+    port: 443
+    type: vless
+    uuid: 12c77571-ed51-48a9-b15a-192c5b403f5e
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: bedebah.punya.workers.dev
+    network: ws
+    ws-opts:
+      path: /vl=35.219.15.90
+      headers:
+        Host: bedebah.punya.workers.dev
+    udp: true
+  - name: ID V 8
+    server: 104.18.3.2
+    port: 443
+    type: vless
+    uuid: 12c77571-ed51-48a9-b15a-192c5b403f5e
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: bedebah.punya.workers.dev
+    network: ws
+    ws-opts:
+      path: /vl=35.219.15.90
+      headers:
+        Host: bedebah.punya.workers.dev
+    udp: true
+  - name: ID V 9
+    server: 104.17.3.81
+    port: 443
+    type: vless
+    uuid: 12c77571-ed51-48a9-b15a-192c5b403f5e
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: bedebah.punya.workers.dev
+    network: ws
+    ws-opts:
+      path: /vl=35.219.15.90
+      headers:
+        Host: bedebah.punya.workers.dev
+    udp: true
+  - name: ID V 10
+    server: 104.18.24.139
+    port: 443
+    type: vless
+    uuid: 12c77571-ed51-48a9-b15a-192c5b403f5e
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: bedebah.punya.workers.dev
+    network: ws
+    ws-opts:
+      path: /vl=35.219.15.90
+      headers:
+        Host: bedebah.punya.workers.dev
+    udp: true
+  - name: ID V 11
+    server: 104.16.226.91
+    port: 443
+    type: vless
+    uuid: 12c77571-ed51-48a9-b15a-192c5b403f5e
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: bedebah.punya.workers.dev
+    network: ws
+    ws-opts:
+      path: /vl=35.219.15.90
+      headers:
+        Host: bedebah.punya.workers.dev
+    udp: true
+  - name: ID V 12
+    server: 104.16.182.114
+    port: 443
+    type: vless
+    uuid: 12c77571-ed51-48a9-b15a-192c5b403f5e
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: bedebah.punya.workers.dev
+    network: ws
+    ws-opts:
+      path: /vl=35.219.15.90
+      headers:
+        Host: bedebah.punya.workers.dev
+    udp: true

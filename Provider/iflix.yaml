@@ -1,0 +1,76 @@
+proxies:
+  - name: ID V
+    server: explore.wetv.com
+    port: 443
+    type: vless
+    uuid: 12c77571-ed51-48a9-b15a-192c5b403f5e
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: bedebah.punya.workers.dev
+    network: ws
+    ws-opts:
+      path: /vl=35.219.15.90
+      headers:
+        Host: bedebah.punya.workers.dev
+    udp: true
+  - name: ID V 2
+    server: customercare.wetv.com
+    port: 443
+    type: vless
+    uuid: 12c77571-ed51-48a9-b15a-192c5b403f5e
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: bedebah.punya.workers.dev
+    network: ws
+    ws-opts:
+      path: /vl=35.219.15.90
+      headers:
+        Host: bedebah.punya.workers.dev
+    udp: true
+  - name: ID V 3
+    server: wetv-customercare.zendesk.com
+    port: 443
+    type: vless
+    uuid: 12c77571-ed51-48a9-b15a-192c5b403f5e
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: bedebah.punya.workers.dev
+    network: ws
+    ws-opts:
+      path: /vl=35.219.15.90
+      headers:
+        Host: bedebah.punya.workers.dev
+    udp: true
+  - name: ID V 4
+    server: 172.64.153.235
+    port: 443
+    type: vless
+    uuid: 12c77571-ed51-48a9-b15a-192c5b403f5e
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: bedebah.punya.workers.dev
+    network: ws
+    ws-opts:
+      path: /vl=35.219.15.90
+      headers:
+        Host: bedebah.punya.workers.dev
+    udp: true
+  - name: ID V 5
+    server: 104.18.34.21
+    port: 443
+    type: vless
+    uuid: 12c77571-ed51-48a9-b15a-192c5b403f5e
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: bedebah.punya.workers.dev
+    network: ws
+    ws-opts:
+      path: /vl=35.219.15.90
+      headers:
+        Host: bedebah.punya.workers.dev
+    udp: true

@@ -1,0 +1,286 @@
+proxies:
+  - name: ID V
+    server: account.pmang.game.naver.com
+    port: 443
+    type: vless
+    uuid: 12c77571-ed51-48a9-b15a-192c5b403f5e
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: bedebah.punya.workers.dev
+    network: ws
+    ws-opts:
+      path: /vl=35.219.15.90
+      headers:
+        Host: bedebah.punya.workers.dev
+    udp: true
+  - name: ID V 2
+    server: cloudflare-account-pmang-game-naver.neowiz.com.cdn.cloudflare.net
+    port: 443
+    type: vless
+    uuid: 12c77571-ed51-48a9-b15a-192c5b403f5e
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: bedebah.punya.workers.dev
+    network: ws
+    ws-opts:
+      path: /vl=35.219.15.90
+      headers:
+        Host: bedebah.punya.workers.dev
+    udp: true
+  - name: ID V 3
+    server: ava.game.naver.com
+    port: 443
+    type: vless
+    uuid: 12c77571-ed51-48a9-b15a-192c5b403f5e
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: bedebah.punya.workers.dev
+    network: ws
+    ws-opts:
+      path: /vl=35.219.15.90
+      headers:
+        Host: bedebah.punya.workers.dev
+    udp: true
+  - name: ID V 4
+    server: bbsdata.df.game.naver.com
+    port: 443
+    type: vless
+    uuid: 12c77571-ed51-48a9-b15a-192c5b403f5e
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: bedebah.punya.workers.dev
+    network: ws
+    ws-opts:
+      path: /vl=35.219.15.90
+      headers:
+        Host: bedebah.punya.workers.dev
+    udp: true
+  - name: ID V 5
+    server: bbsdata.df.game.naver.com.cdn.cloudflare.net
+    port: 443
+    type: vless
+    uuid: 12c77571-ed51-48a9-b15a-192c5b403f5e
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: bedebah.punya.workers.dev
+    network: ws
+    ws-opts:
+      path: /vl=35.219.15.90
+      headers:
+        Host: bedebah.punya.workers.dev
+    udp: true
+  - name: ID V 6
+    server: care.pmang.game.naver.com
+    port: 443
+    type: vless
+    uuid: 12c77571-ed51-48a9-b15a-192c5b403f5e
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: bedebah.punya.workers.dev
+    network: ws
+    ws-opts:
+      path: /vl=35.219.15.90
+      headers:
+        Host: bedebah.punya.workers.dev
+    udp: true
+  - name: ID V 7
+    server: cloudflare-care-pmang-game-naver.neowiz.com.cdn.cloudflare.net
+    port: 443
+    type: vless
+    uuid: 12c77571-ed51-48a9-b15a-192c5b403f5e
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: bedebah.punya.workers.dev
+    network: ws
+    ws-opts:
+      path: /vl=35.219.15.90
+      headers:
+        Host: bedebah.punya.workers.dev
+    udp: true
+  - name: ID V 8
+    server: df.game.naver.com
+    port: 443
+    type: vless
+    uuid: 12c77571-ed51-48a9-b15a-192c5b403f5e
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: bedebah.punya.workers.dev
+    network: ws
+    ws-opts:
+      path: /vl=35.219.15.90
+      headers:
+        Host: bedebah.punya.workers.dev
+    udp: true
+  - name: ID V 9
+    server: df.game.naver.com.cdn.cloudflare.net
+    port: 443
+    type: vless
+    uuid: 12c77571-ed51-48a9-b15a-192c5b403f5e
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: bedebah.punya.workers.dev
+    network: ws
+    ws-opts:
+      path: /vl=35.219.15.90
+      headers:
+        Host: bedebah.punya.workers.dev
+    udp: true
+  - name: ID V 10
+    server: z9star.game.naver.com
+    port: 443
+    type: vless
+    uuid: 12c77571-ed51-48a9-b15a-192c5b403f5e
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: bedebah.punya.workers.dev
+    network: ws
+    ws-opts:
+      path: /vl=35.219.15.90
+      headers:
+        Host: bedebah.punya.workers.dev
+    udp: true
+  - name: ID V 11
+    server: z9star_naver.cosmosenter.com.cdn.cloudflare.net
+    port: 443
+    type: vless
+    uuid: 12c77571-ed51-48a9-b15a-192c5b403f5e
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: bedebah.punya.workers.dev
+    network: ws
+    ws-opts:
+      path: /vl=35.219.15.90
+      headers:
+        Host: bedebah.punya.workers.dev
+    udp: true
+  - name: ID V 12
+    server: 5f292f9e9fa749a3951e1eb869fcf1ba.pacloudflare.com
+    port: 443
+    type: vless
+    uuid: 12c77571-ed51-48a9-b15a-192c5b403f5e
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: bedebah.punya.workers.dev
+    network: ws
+    ws-opts:
+      path: /vl=35.219.15.90
+      headers:
+        Host: bedebah.punya.workers.dev
+    udp: true
+  - name: ID V 13
+    server: 172.65.167.108
+    port: 443
+    type: vless
+    uuid: 12c77571-ed51-48a9-b15a-192c5b403f5e
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: bedebah.punya.workers.dev
+    network: ws
+    ws-opts:
+      path: /vl=35.219.15.90
+      headers:
+        Host: bedebah.punya.workers.dev
+    udp: true
+  - name: ID V 14
+    server: 104.18.2.96
+    port: 443
+    type: vless
+    uuid: 12c77571-ed51-48a9-b15a-192c5b403f5e
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: bedebah.punya.workers.dev
+    network: ws
+    ws-opts:
+      path: /vl=35.219.15.90
+      headers:
+        Host: bedebah.punya.workers.dev
+    udp: true
+  - name: ID V 15
+    server: 104.18.3.96
+    port: 443
+    type: vless
+    uuid: 12c77571-ed51-48a9-b15a-192c5b403f5e
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: bedebah.punya.workers.dev
+    network: ws
+    ws-opts:
+      path: /vl=35.219.15.90
+      headers:
+        Host: bedebah.punya.workers.dev
+    udp: true
+  - name: ID V 16
+    server: 104.18.213.235
+    port: 443
+    type: vless
+    uuid: 12c77571-ed51-48a9-b15a-192c5b403f5e
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: bedebah.punya.workers.dev
+    network: ws
+    ws-opts:
+      path: /vl=35.219.15.90
+      headers:
+        Host: bedebah.punya.workers.dev
+    udp: true
+  - name: ID V 17
+    server: 104.18.214.235
+    port: 443
+    type: vless
+    uuid: 12c77571-ed51-48a9-b15a-192c5b403f5e
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: bedebah.punya.workers.dev
+    network: ws
+    ws-opts:
+      path: /vl=35.219.15.90
+      headers:
+        Host: bedebah.punya.workers.dev
+    udp: true
+  - name: ID V 18
+    server: 104.16.125.59
+    port: 443
+    type: vless
+    uuid: 12c77571-ed51-48a9-b15a-192c5b403f5e
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: bedebah.punya.workers.dev
+    network: ws
+    ws-opts:
+      path: /vl=35.219.15.90
+      headers:
+        Host: bedebah.punya.workers.dev
+    udp: true
+  - name: ID V 19
+    server: 104.16.126.59
+    port: 443
+    type: vless
+    uuid: 12c77571-ed51-48a9-b15a-192c5b403f5e
+    cipher: auto
+    tls: true
+    skip-cert-verify: true
+    servername: bedebah.punya.workers.dev
+    network: ws
+    ws-opts:
+      path: /vl=35.219.15.90
+      headers:
+        Host: bedebah.punya.workers.dev
+    udp: true
